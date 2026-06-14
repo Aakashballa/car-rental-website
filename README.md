@@ -24,9 +24,9 @@ A responsive frontend web application for a car rental service, built using HTML
 
 ## 📸 Demo
 
-![Homepage](screenshots/carrental.png)
+(screenshots/carrental.png)
 
----🚀 Getting Started
+## 🚀 Getting Started
 1. Clone the Repository
    
 git clone https://github.com/Aakashballa/car-rental-website.git
