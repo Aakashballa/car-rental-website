@@ -24,7 +24,7 @@ A responsive frontend web application for a car rental service, built using HTML
 
 ## 📸 Demo
 
-(screenshots/carrental.png)
+screenshots/car rental.jpg
 
 ## 🚀 Getting Started
 1. Clone the Repository
